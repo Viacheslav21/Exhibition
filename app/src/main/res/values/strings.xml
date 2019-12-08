@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Super Heroes Exhibition</string>
+    <string name="base_url">http://test.php-cd.attractgroup.com/</string>
+    <string name="hello">Hello</string>
+    <string name="there">There</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+</resources>
